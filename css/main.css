@@ -90,11 +90,11 @@ select.select-control {
   padding: 0px 6px;
   vertical-align: baseline;
 }
-#subtest-8-select {
+#subtest-select {
   width: 210px;
   padding: 0;
 }
-#subtest-8-select option {
+#subtest-select option {
   padding: 0;
 }
 
@@ -205,18 +205,9 @@ th .clr, .thpad {
   border-radius: 5px;
   font-weight: bold;
 }
-.summ-field {
-}
-
-.total-scale {
-  background-color: rgba(240,240,240,0.85);
-  font-weight: bold;
-}
-
 .row-divider {
   margin: 30px 0;
 }
-
 
 /*========================================*/
 /* Graphs */
